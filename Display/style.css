@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+*{
+    padding:0%;
+    margin: 0%;
+
+}
+.class{
+display: flex;
+justify-content: center;
+gap: 2px;
+/* margin: 20px; */
+margin-top: 30px;
+justify-items: center;
+align-items: center;
+
+}

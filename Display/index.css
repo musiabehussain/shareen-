@@ -1,0 +1,74 @@
+/* .main img{
+width: 50%;
+}
+body{
+    background-color: aqua;
+}
+.ali{
+    background-color: antiquewhite;
+    width: 50%;
+    border-radius: 10px;
+    border: double 10px;
+
+}
+.ali button{
+    background-color: brown;
+}
+.mohd{
+    display: flex;
+    align-items: center;
+}
+.mohd nav ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+.mohd h1{
+    background-color: brown;
+
+}
+.mohd p{
+    background-color: bisque;
+} */
+
+
+table{
+    width: 100%;
+    text-align: center;
+    border: 4px red double;
+    
+    border-collapse: collapse;
+}
+table th ,td{
+    border:  4px solid ;
+    padding: 20px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.my-table{
+    background-color: yellow;
+}
+#theading{
+    background-color: orangered;
+}
+
+
+.heading{
+    padding: 20px;
+    text-align: center;
+    background-color: blue;
+    display: inline-block;
+    margin: 20%;
+    border: 4px solid #11ef15;
+    /* border-bottom:20px solid red ; */
+    /* border-radius:20px ; */
+    border-end-end-radius:50px ;
+    border-end-start-radius:50px ;
+    border-start-start-radius:50px ;
+    border-start-end-radius:50px ;
+    color:red ;
+   
+}
